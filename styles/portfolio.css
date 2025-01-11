@@ -70,7 +70,6 @@ img {
 
 .container {
   padding: 30px;
-  text-align: center;
 }
 
 @media (max-width: 900px) {
@@ -80,5 +79,9 @@ img {
   }
   h2 {
     font-size: 44px;
+  }
+
+  .container {
+    text-align: center;
   }
 }
